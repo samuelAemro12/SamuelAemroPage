@@ -47,3 +47,7 @@ hr
     width: 4%;
     margin: 100px auto;
 }
+.profile-image 
+{
+    border-radius: 100%;
+}
