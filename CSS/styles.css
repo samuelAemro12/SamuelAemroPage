@@ -82,3 +82,20 @@ hr
     width: 30%;
     margin: auto;
 }
+.the_top_container
+{
+    background-color: #eaf6f6;
+    color: #66BFBF;
+    position: relative;
+    padding-top: 100px;
+}
+.the_middle_cotainer
+{
+    margin: 100px,0;
+}
+.the_bottom_cotainer
+{
+    background-color: #2a9696;
+    display: fixed;
+    padding: 50px 0 20px;
+}
