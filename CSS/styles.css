@@ -51,3 +51,34 @@ hr
 {
     border-radius: 100%;
 }
+.skill_row 
+{
+    width:50%;
+    margin: 100px auto 100px auto;
+}
+.l-alligned
+{
+    text-align: left;
+}
+.web_dev 
+{
+    width: 60%;
+    float: left;
+    margin-right: 20px;
+}
+.c-plusplus
+{
+    width: 40%;
+    height: 80%;
+    float: right;
+    margin-left: 20px;
+}
+.profile-image
+{
+    width: 25% ;
+}
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
