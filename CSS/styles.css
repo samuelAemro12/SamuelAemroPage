@@ -99,3 +99,20 @@ hr
     display: fixed;
     padding: 50px 0 20px;
 }
+.pro{
+    text-decoration: underline;
+    font-weight:normal;
+}
+.botttom_cloud
+{
+    position: absolute;
+    top: 40px;
+    left: 300px;
+
+}
+.top_cloud 
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
