@@ -1,0 +1,10 @@
+a{
+    color: #66BFBF;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #eaf6f6;
+}
