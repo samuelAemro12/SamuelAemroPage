@@ -8,3 +8,42 @@ a:hover
 {
     color: #eaf6f6;
 }
+body
+{
+    margin:0px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #40514E;
+}
+h1
+{
+    color: #66BFBF;
+    font-size: 5.625em;
+    margin: 50px auto 0 auto;
+    font-family: algerian, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+h2 
+{
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3
+{
+    color: #11999E;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p
+{
+    font-size: 1.73rem;
+}
+hr
+{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
